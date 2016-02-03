@@ -4,6 +4,9 @@
   "main": "index.js",
   "scripts": {
   },
+  "bin": {
+        "node-telegram": "./index.js"
+  },
   "author": "Wellington Guimaraes",
   "license": "MIT",
   "description": "Send messages to Telegram chats",
