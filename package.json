@@ -1,11 +1,11 @@
 {
   "name": "node-telegram",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "scripts": {
   },
   "bin": {
-        "node-telegram": "index.js"
+        "node-telegram": "./bin/node-telegram"
   },
   "author": "Wellington Guimaraes",
   "license": "MIT",

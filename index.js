@@ -1,5 +1,3 @@
-#!/usr/bin/env node
-
 var request = require('request-promise');
 var availableArgs = {
     '-t': 'token',
