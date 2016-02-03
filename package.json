@@ -1,13 +1,12 @@
 {
   "name": "node-telegram",
   "version": "1.0.0",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
   },
   "author": "Wellington Guimaraes",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Send messages to Telegram chats",
-  "preferGlobal": true,
   "bin": {
     "node-telegram": "index.js"
   },
